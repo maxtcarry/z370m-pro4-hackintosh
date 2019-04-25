@@ -116,3 +116,5 @@ CLOVERX64.efi保持不变，使用[HouCode](https://github.com/HouCoder/asrock-z
 # date
 
 4/22  绝大部分完美，不影响使用，小问题有时间解决 wifi和蓝牙免驱硬件准备配上
+
+# [软件推荐](https://wangchujiang.com/awesome-mac/index.zh.html)
